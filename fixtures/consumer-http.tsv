@@ -1,0 +1,5 @@
+version	1
+interaction	GET	/items	200
+field	id	string
+field	price	number
+optional	currency	string
